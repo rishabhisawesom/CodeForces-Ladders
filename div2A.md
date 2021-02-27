@@ -13,7 +13,7 @@
 | 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 |  |
 | 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 |  |
 | 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 |  |
-| 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  |
+| 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 | Contest 12 |
 | 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 |  |
 | 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 |  |
 | 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 |  |
@@ -24,11 +24,11 @@
 | 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 |  |
 | 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 |  |
 | 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 |  |
-| 25 | [Find Square](https://codeforces.com/problemset/problem/1028/A) | 800 |  |
+| 25 | [Find Square](https://codeforces.com/problemset/problem/1028/A) | 800 | Contest 13 |
 | 26 | [QAQ](https://codeforces.com/problemset/problem/894/A) | 800 |  |
 | 27 | [Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | 800 |  |
 | 28 | [Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) | 800 |  |
-| 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 |  |
+| 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 | Contest 11 |
 | 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 |  |
 | 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 |  |
 | 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 |  |
@@ -49,7 +49,7 @@
 | 47 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 |  |
 | 48 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 900 |  |
 | 49 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 |  |
-| 50 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 |  |
+| 50 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 | Contest 9 |
 | 51 | [Important Exam](https://codeforces.com/problemset/problem/1201/A) | 900 |  |
 | 52 | [The King's Race](https://codeforces.com/problemset/problem/1075/A) | 900 |  |
 | 53 | [Greed](https://codeforces.com/problemset/problem/892/A) | 900 |  |
@@ -65,7 +65,7 @@
 | 63 | [Eating Soup](https://codeforces.com/problemset/problem/1163/A) | 1000 |  |
 | 64 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 |  |
 | 65 | [Trip For Meal](https://codeforces.com/problemset/problem/876/A) | 1000 |  |
-| 66 | [The Useless Toy](https://codeforces.com/problemset/problem/834/A) | 1000 |  |
+| 66 | [The Useless Toy](https://codeforces.com/problemset/problem/834/A) | 1000 | Contest 8 |
 | 67 | [Aramic script](https://codeforces.com/problemset/problem/975/A) | 1000 |  |
 | 68 | [Diversity](https://codeforces.com/problemset/problem/844/A) | 1000 |  |
 | 69 | [Beautiful String](https://codeforces.com/problemset/problem/1265/A) | 1000 |  |
