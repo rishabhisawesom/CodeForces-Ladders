@@ -8,12 +8,12 @@
 | 6 | [Ania and Minimizing](https://codeforces.com/problemset/problem/1230/B) | 1000 |  |
 | 7 | [Timofey and cubes](https://codeforces.com/problemset/problem/764/B) | 1000 |  |
 | 8 | [Fafa and the Gates](https://codeforces.com/problemset/problem/935/B) | 1000 |  |
-| 9 | [Buying a TV Set](https://codeforces.com/problemset/problem/1041/B) | 1100 |  |
+| 9 | [Buying a TV Set](https://codeforces.com/problemset/problem/1041/B) | 1100 | Contest 15 |
 | 10 | [Badges](https://codeforces.com/problemset/problem/1214/B) | 1100 |  |
 | 11 | [Nauuo and Chess](https://codeforces.com/problemset/problem/1173/B) | 1100 | Contest 13 |
 | 12 | [The Festive Evening](https://codeforces.com/problemset/problem/834/B) | 1100 |  |
 | 13 | [Non-Coprime Partition](https://codeforces.com/problemset/problem/1038/B) | 1100 |  |
-| 14 | [Minesweeper](https://codeforces.com/problemset/problem/984/B) | 1100 |  |
+| 14 | [Minesweeper](https://codeforces.com/problemset/problem/984/B) | 1100 | Contest 15 |
 | 15 | [Weird Rounding](https://codeforces.com/problemset/problem/779/B) | 1100 | Contest 12 |
 | 16 | [Perfect Number](https://codeforces.com/problemset/problem/919/B) | 1100 |  |
 | 17 | [Sport Mafia](https://codeforces.com/problemset/problem/1195/B) | 1100 |  |
