@@ -10,7 +10,7 @@
 | 8 | [Substring Game in the Lesson](https://codeforces.com/problemset/problem/1220/C) | 1300 |  |
 | 9 | [Labs](https://codeforces.com/problemset/problem/1236/C) | 1300 |  |
 | 10 | [Seat Arrangements](https://codeforces.com/problemset/problem/919/C) | 1300 | Contest 12 |
-| 11 | [Table Tennis Game 2](https://codeforces.com/problemset/problem/765/C) | 1300 |  |
+| 11 | [Table Tennis Game 2](https://codeforces.com/problemset/problem/765/C) | 1300 | Contest 15 |
 | 12 | [Ehab and a Special Coloring Problem](https://codeforces.com/problemset/problem/1174/C) | 1300 | Contest 14 |
 | 13 | [Phone Numbers](https://codeforces.com/problemset/problem/898/C) | 1400 |  |
 | 14 | [Servers](https://codeforces.com/problemset/problem/747/C) | 1400 |  |
@@ -41,7 +41,7 @@
 | 39 | [Sequence Transformation](https://codeforces.com/problemset/problem/1059/C) | 1500 | Contest 10 |
 | 40 | [A Tale of Two Lands](https://codeforces.com/problemset/problem/1166/C) | 1600 |  |
 | 41 | [Primes and Multiplication](https://codeforces.com/problemset/problem/1228/C) | 1600 |  |
-| 42 | [Tram](https://codeforces.com/problemset/problem/746/C) | 1600 |  |
+| 42 | [Tram](https://codeforces.com/problemset/problem/746/C) | 1600 | Contest 15 |
 | 43 | [Jury Marks](https://codeforces.com/problemset/problem/831/C) | 1600 |  |
 | 44 | [Okabe and Boxes](https://codeforces.com/problemset/problem/821/C) | 1600 |  |
 | 45 | [Serval and Parenthesis Sequence](https://codeforces.com/problemset/problem/1153/C) | 1600 |  |
