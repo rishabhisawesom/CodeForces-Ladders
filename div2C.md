@@ -32,7 +32,7 @@
 | 30 | [Sagheer and Nubian Market](https://codeforces.com/problemset/problem/812/C) | 1500 | Contest 11 |
 | 31 | [Solution for Cube](https://codeforces.com/problemset/problem/887/C) | 1500 | Contest 13 |
 | 32 | [Phone Numbers](https://codeforces.com/problemset/problem/940/C) | 1500 |  |
-| 33 | [Mahmoud and Ehab and the wrong algorithm](https://codeforces.com/problemset/problem/959/C) | 1500 |  |
+| 33 | [Mahmoud and Ehab and the wrong algorithm](https://codeforces.com/problemset/problem/959/C) | 1500 | Contest 18 |
 | 34 | [Candies](https://codeforces.com/problemset/problem/991/C) | 1500 |  |
 | 35 | [Cut 'em all!](https://codeforces.com/problemset/problem/982/C) | 1500 |  |
 | 36 | [Round Corridor](https://codeforces.com/problemset/problem/1200/C) | 1500 |  |
