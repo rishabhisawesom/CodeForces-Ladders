@@ -44,7 +44,7 @@
 | 42 | [Tram](https://codeforces.com/problemset/problem/746/C) | 1600 | Contest 15 |
 | 43 | [Jury Marks](https://codeforces.com/problemset/problem/831/C) | 1600 |  |
 | 44 | [Okabe and Boxes](https://codeforces.com/problemset/problem/821/C) | 1600 |  |
-| 45 | [Serval and Parenthesis Sequence](https://codeforces.com/problemset/problem/1153/C) | 1600 |  |
+| 45 | [Serval and Parenthesis Sequence](https://codeforces.com/problemset/problem/1153/C) | 1600 | Contest 20 |
 | 46 | [Rectangles](https://codeforces.com/problemset/problem/1028/C) | 1600 |  |
 | 47 | [Plasticine zebra](https://codeforces.com/problemset/problem/1025/C) | 1600 |  |
 | 48 | [Cave Painting](https://codeforces.com/problemset/problem/922/C) | 1600 | Contest 10 |
