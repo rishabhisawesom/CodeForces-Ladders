@@ -22,9 +22,9 @@
 | 20 | [Mahmoud and a Triangle](https://codeforces.com/problemset/problem/766/B) | 1100 | Contest 6 |
 | 21 | [Polycarp and Letters](https://codeforces.com/problemset/problem/864/B) | 1100 |  |
 | 22 | [Chocolates](https://codeforces.com/problemset/problem/1139/B) | 1100 |  |
-| 23 | [The Eternal Immortality](https://codeforces.com/problemset/problem/869/B) | 1100 |  |
+| 23 | [The Eternal Immortality](https://codeforces.com/problemset/problem/869/B) | 1100 | Contest 20 |
 | 24 | [Getting an A](https://codeforces.com/problemset/problem/991/B) | 1100 |  |
-| 25 | [Crossword solving](https://codeforces.com/problemset/problem/822/B) | 1100 |  |
+| 25 | [Crossword solving](https://codeforces.com/problemset/problem/822/B) | 1100 | Contest 20 |
 | 26 | [Serval and Toy Bricks](https://codeforces.com/problemset/problem/1153/B) | 1200 |  |
 | 27 | [A Prosperous Lot](https://codeforces.com/problemset/problem/934/B) | 1200 | Contest 19 |
 | 28 | [Email from Polycarp](https://codeforces.com/problemset/problem/1185/B) | 1200 | Contest 19 |
